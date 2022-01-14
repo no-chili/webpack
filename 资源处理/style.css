@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url('./AaZhuiFengShouJi.ttf')format('AaZhuiFengShouJi');
+}
+
+.color {
+    font-family: 'MyFont';
+    color: skyblue;
+}
